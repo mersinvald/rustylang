@@ -1,0 +1,7 @@
+[
+    { "regex": "match ?P<a>", "subst": "%a, ты кто по жизни?" },
+    { "regex": "fn", "subst": "сделай красиво" },
+    { "regex": "main", "subst": "по сути" },
+    { "regex": "\\{", "subst": "валяй" },
+    { "regex": "\\}", "subst": "харош" }
+]
